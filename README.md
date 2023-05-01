@@ -1,0 +1,1 @@
+# qazrest-stage-pos-desktop
